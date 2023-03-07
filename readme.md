@@ -1,7 +1,7 @@
 # **MC322 - Turma <A,B,C>**
 
 # **Aluno**
-    Nome Aluno Sobrenome
+  Glória
 
 # **RA**
     RA: 987654
